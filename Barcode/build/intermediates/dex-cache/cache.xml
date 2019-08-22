@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\ahmed\.android\build-cache\a2ee675bcd1fea718d0ca92db104bc9c3a5f4e75\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="E:\AndroidStudioProjects\Barcode\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_534714480586834b5eb064613706c45e32b9ee6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ahmed\.android\build-cache\685dd3b037db5d9b10e16aefacbd8714c247e9b0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\AndroidStudioProjects\Barcode\app\build\intermediates\pre-dexed\debug\classes_e0333254ee9ad68e998589d637b69df8f9ab9515.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ahmed\.android\build-cache\07f513f3ed6c60a48afe07aa6a207fb8dfa9f992\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="E:\AndroidStudioProjects\Barcode\app\build\intermediates\pre-dexed\debug\classes_844b44ccdc6220d444c140d8f2f0db30eaa7d11e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ahmed\.android\build-cache\77e8e846571c428653ed34ba3bc5207bab82904d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="E:\AndroidStudioProjects\Barcode\app\build\intermediates\pre-dexed\debug\classes_8df2a2730c48227049758e716e483dfac7fceb4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\sdk\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="E:\AndroidStudioProjects\Barcode\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_5b4588deab9db230ad5615ab2251beb561e225c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ahmed\.android\build-cache\5f39b6e60ba92f4c5f1c4f218f5457592dbd72c5\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="E:\AndroidStudioProjects\Barcode\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_cf619df272121b517611e926bde5e6eb95199835.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ahmed\.android\build-cache\a2ee675bcd1fea718d0ca92db104bc9c3a5f4e75\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="E:\AndroidStudioProjects\Barcode\app\build\intermediates\pre-dexed\debug\classes_70da9e3fbc21b0109a248c4ae0ad514171844bdd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\sdk\AndroidSDK\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="E:\AndroidStudioProjects\Barcode\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_fc2dfe68a0d1ad88a3fe8c1ff4a3be283bbedd59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ahmed\.android\build-cache\5f39b6e60ba92f4c5f1c4f218f5457592dbd72c5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="E:\AndroidStudioProjects\Barcode\app\build\intermediates\pre-dexed\debug\classes_442c1fa73bc5d6007d18cbe1a6a43f38cb7d9511.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ahmed\.android\build-cache\77e8e846571c428653ed34ba3bc5207bab82904d\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="E:\AndroidStudioProjects\Barcode\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_8f218d25927406d9e9fddf6a2d694d6355626748.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ahmed\.android\build-cache\b0cf5a91341c501c4ead7a853f0298e14ed52353\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="E:\AndroidStudioProjects\Barcode\app\build\intermediates\pre-dexed\debug\classes_96b2b9a18519cbb74d62b5cea4d0f29119010718.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ahmed\.android\build-cache\d8a88f7b1985c5f23974de8267e6807536cf1aee\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="E:\AndroidStudioProjects\Barcode\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_31f2b3e16299ea99d366d6ba50e9031b9fe4ec57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ahmed\.android\build-cache\d8a88f7b1985c5f23974de8267e6807536cf1aee\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="E:\AndroidStudioProjects\Barcode\app\build\intermediates\pre-dexed\debug\classes_be62a59782429888e6a2a0c7ec0a921b8435eba0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ahmed\.android\build-cache\7a3c9e5e505850fb88b86c402c9c485a7676bf3a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="E:\AndroidStudioProjects\Barcode\app\build\intermediates\pre-dexed\debug\classes_94f25daa2270ef0b19bdfa3d8a08106b56559f1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ahmed\.android\build-cache\b916e0fa9032bf62fc9df5cef02d906e54aa5992\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\AndroidStudioProjects\Barcode\app\build\intermediates\pre-dexed\debug\classes_933da48b1ffd2054b18229169df4f1cab8a0bf26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ahmed\.android\build-cache\b0cf5a91341c501c4ead7a853f0298e14ed52353\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="E:\AndroidStudioProjects\Barcode\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_5da3b78f99023ca698da744e45159fd005b4d47b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ahmed\.android\build-cache\1f7111b12ed445f2a9107b290b9934a89a043679\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="E:\AndroidStudioProjects\Barcode\app\build\intermediates\pre-dexed\debug\classes_02c1fb3138ae4caef6ff314aa04676d963c5c826.jar" />
+    </item>
+
+</items>

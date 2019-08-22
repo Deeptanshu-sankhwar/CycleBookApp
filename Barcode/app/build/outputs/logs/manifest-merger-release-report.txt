@@ -1,0 +1,71 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\AndroidStudioProjects\Barcode\app\src\main\AndroidManifest.xml:2:1-20:12
+	package
+		ADDED from E:\AndroidStudioProjects\Barcode\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from E:\AndroidStudioProjects\Barcode\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProjects\Barcode\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\AndroidStudioProjects\Barcode\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProjects\Barcode\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\AndroidStudioProjects\Barcode\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\AndroidStudioProjects\Barcode\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProjects\Barcode\app\src\main\AndroidManifest.xml
+application
+ADDED from E:\AndroidStudioProjects\Barcode\app\src\main\AndroidManifest.xml:5:5-18:19
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\ahmed\.android\build-cache\1f7111b12ed445f2a9107b290b9934a89a043679\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\ahmed\.android\build-cache\685dd3b037db5d9b10e16aefacbd8714c247e9b0\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\ahmed\.android\build-cache\77e8e846571c428653ed34ba3bc5207bab82904d\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\ahmed\.android\build-cache\b0cf5a91341c501c4ead7a853f0298e14ed52353\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\ahmed\.android\build-cache\5f39b6e60ba92f4c5f1c4f218f5457592dbd72c5\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\ahmed\.android\build-cache\d8a88f7b1985c5f23974de8267e6807536cf1aee\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\ahmed\.android\build-cache\07f513f3ed6c60a48afe07aa6a207fb8dfa9f992\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\ahmed\.android\build-cache\7a3c9e5e505850fb88b86c402c9c485a7676bf3a\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\ahmed\.android\build-cache\a2ee675bcd1fea718d0ca92db104bc9c3a5f4e75\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ahmed\.android\build-cache\b916e0fa9032bf62fc9df5cef02d906e54aa5992\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from E:\AndroidStudioProjects\Barcode\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from E:\AndroidStudioProjects\Barcode\app\src\main\AndroidManifest.xml:9:9-35
+	android:allowBackup
+		ADDED from E:\AndroidStudioProjects\Barcode\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from E:\AndroidStudioProjects\Barcode\app\src\main\AndroidManifest.xml:7:9-36
+	android:theme
+		ADDED from E:\AndroidStudioProjects\Barcode\app\src\main\AndroidManifest.xml:10:9-40
+activity#com.example.ahmed.barcode.MainActivity
+ADDED from E:\AndroidStudioProjects\Barcode\app\src\main\AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from E:\AndroidStudioProjects\Barcode\app\src\main\AndroidManifest.xml:11:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\AndroidStudioProjects\Barcode\app\src\main\AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from E:\AndroidStudioProjects\Barcode\app\src\main\AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from E:\AndroidStudioProjects\Barcode\app\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\AndroidStudioProjects\Barcode\app\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from E:\AndroidStudioProjects\Barcode\app\src\main\AndroidManifest.xml:15:27-74
+uses-sdk
+INJECTED from E:\AndroidStudioProjects\Barcode\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\ahmed\.android\build-cache\1f7111b12ed445f2a9107b290b9934a89a043679\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\ahmed\.android\build-cache\685dd3b037db5d9b10e16aefacbd8714c247e9b0\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\ahmed\.android\build-cache\77e8e846571c428653ed34ba3bc5207bab82904d\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\ahmed\.android\build-cache\b0cf5a91341c501c4ead7a853f0298e14ed52353\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\ahmed\.android\build-cache\5f39b6e60ba92f4c5f1c4f218f5457592dbd72c5\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\ahmed\.android\build-cache\d8a88f7b1985c5f23974de8267e6807536cf1aee\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\ahmed\.android\build-cache\07f513f3ed6c60a48afe07aa6a207fb8dfa9f992\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\ahmed\.android\build-cache\7a3c9e5e505850fb88b86c402c9c485a7676bf3a\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\ahmed\.android\build-cache\a2ee675bcd1fea718d0ca92db104bc9c3a5f4e75\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ahmed\.android\build-cache\b916e0fa9032bf62fc9df5cef02d906e54aa5992\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] C:\Users\ahmed\.android\build-cache\1f7111b12ed445f2a9107b290b9934a89a043679\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from E:\AndroidStudioProjects\Barcode\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProjects\Barcode\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\AndroidStudioProjects\Barcode\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProjects\Barcode\app\src\main\AndroidManifest.xml

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IITH_cycles</string>
+    <string name="start_btn">Start Ride</string>
+    <string name="stop_btn">Stop Ride</string>
+</resources>

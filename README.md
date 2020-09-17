@@ -1,3 +1,5 @@
+# Bicycle Rental Application
+
 ## About the app
 
 This is an app that enables students to issue bicycles through their Identity Cards. The idea is to have a flag value, that indicates whether a student is eligible to issue a bicycle or not, depending on a flag value (0/1). Once a cycle is issued, a timer begins indicating the duration for which the user's activation period is active. This project is done as a fulfilment of the course Independent Project during Winter 18'. 
